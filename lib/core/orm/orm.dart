@@ -1,1 +1,1 @@
-export "package:ripple/core/orm/orm_table.dart";
+export "package:rippledb/core/orm/orm_table.dart";

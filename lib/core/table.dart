@@ -1,4 +1,4 @@
-import 'package:ripple/core/columns.dart';
+import 'package:rippledb/core/columns.dart';
 import 'package:sqlite3/sqlite3.dart';
 
 class RippleTable<T> {

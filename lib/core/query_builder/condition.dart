@@ -1,4 +1,4 @@
-import 'package:ripple/core/query_builder/query_builder.dart';
+import 'package:rippledb/core/query_builder/query_builder.dart';
 
 Condition and(List<Condition> conditions) {
   final clauses = conditions.map((c) => c.clause).join(" AND ");

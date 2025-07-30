@@ -1,9 +1,9 @@
-import 'package:ripple/core/driver/driver.dart';
-import 'package:ripple/core/driver/sql_driver_factory.dart';
-import 'package:ripple/core/driver/sqlite_driver_impl.dart';
-import 'package:ripple/core/orm/orm_table.dart';
-import 'package:ripple/core/query_builder/database_facade.dart';
-import 'package:ripple/core/types/table.dart';
+import 'package:rippledb/core/driver/driver.dart';
+import 'package:rippledb/core/driver/sql_driver_factory.dart';
+import 'package:rippledb/core/driver/sqlite_driver_impl.dart';
+import 'package:rippledb/core/orm/orm_table.dart';
+import 'package:rippledb/core/query_builder/database_facade.dart';
+import 'package:rippledb/core/types/table.dart';
 
 class Ripple {
   static Ripple? _instance;

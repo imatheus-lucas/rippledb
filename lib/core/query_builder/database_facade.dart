@@ -1,4 +1,4 @@
-import 'package:ripple/core/driver/driver.dart';
+import 'package:rippledb/core/driver/driver.dart';
 
 import '../types/table.dart';
 import 'query_builder.dart';

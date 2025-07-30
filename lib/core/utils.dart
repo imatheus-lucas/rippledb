@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:ripple/core/types/column.dart';
+import 'package:rippledb/core/types/column.dart';
 
 double convertReal(dynamic value) {
   if (value is double) {

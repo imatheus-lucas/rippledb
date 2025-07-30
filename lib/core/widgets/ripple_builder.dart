@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/widgets.dart';
-import 'package:ripple/ripple.dart';
+import 'package:rippledb/ripple.dart';
 
 /// Um widget que constrói a si mesmo com base no resultado de uma consulta Ripple
 /// e se atualiza automaticamente quando os dados subjacentes mudam.

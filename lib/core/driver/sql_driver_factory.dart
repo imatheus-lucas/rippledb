@@ -1,6 +1,6 @@
-import 'package:ripple/core/driver/driver.dart';
-import 'package:ripple/core/driver/drivers.dart';
-import 'package:ripple/core/types/types.dart';
+import 'package:rippledb/core/driver/driver.dart';
+import 'package:rippledb/core/driver/drivers.dart';
+import 'package:rippledb/core/types/types.dart';
 
 class SqlDriverFactory {
   static Future<DatabaseDriver> getDriver(

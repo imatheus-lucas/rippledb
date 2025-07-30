@@ -1,5 +1,5 @@
-import 'package:ripple/core/query_builder/condition.dart';
-import 'package:ripple/core/query_builder/database_facade.dart';
+import 'package:rippledb/core/query_builder/condition.dart';
+import 'package:rippledb/core/query_builder/database_facade.dart';
 
 class OrmTable {
   final String tableName;

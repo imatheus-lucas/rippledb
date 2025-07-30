@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:ripple/core/driver/driver.dart';
-import 'package:ripple/core/driver/sqlite_driver_impl.dart';
-import 'package:ripple/core/utils.dart';
+import 'package:rippledb/core/driver/driver.dart';
+import 'package:rippledb/core/driver/sqlite_driver_impl.dart';
+import 'package:rippledb/core/utils.dart';
 
 import '../types/table.dart';
 import 'condition.dart';

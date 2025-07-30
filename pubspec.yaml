@@ -1,11 +1,13 @@
 name: ripple
 description: A sample command-line application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://github.com/imatheus-lucas/rippledb
+repository: https://github.com/imatheus-lucas/rippledb
+issue_tracker: https://github.com/imatheus-lucas/rippledb/issues
 
 environment:
   sdk: ^3.8.1
-  flutter: ^3.32.7
+  flutter: ">=3.32.7"
 
 # Add regular dependencies here.
 dependencies:

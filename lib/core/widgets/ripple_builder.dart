@@ -33,13 +33,13 @@ class RippleBuilder<T> extends StatefulWidget {
   });
 
   @override
+  // ignore: library_private_types_in_public_api
   _RippleBuilderState<T> createState() => _RippleBuilderState<T>();
 }
 
 class _RippleBuilderState<T> extends State<RippleBuilder<T>> {
   late AsyncSnapshot<T> _snapshot;
   StreamSubscription? _subscription;
-  String? _listeningToTable;
 
   @override
   Widget build(BuildContext context) {

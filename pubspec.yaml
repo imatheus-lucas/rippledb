@@ -10,11 +10,11 @@ environment:
 # Add regular dependencies here.
 dependencies:
   sqlite3: ^2.7.7
-  # path: ^1.8.0
   flutter:
     sdk: flutter
   path: ^1.9.1
   path_provider: ^2.1.5
+  sqlite3_flutter_libs: ^0.5.38
 
 dev_dependencies:
   lints: ^5.0.0

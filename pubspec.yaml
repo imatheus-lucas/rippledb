@@ -1,5 +1,5 @@
 name: rippledb
-description: A sample command-line application.
+description: RippleDB is a reactive ORM for Dart & Flutter, built from scratch to make SQLite feel like a modern, type-safe query builder.
 version: 0.0.1+1
 homepage: https://github.com/imatheus-lucas/rippledb
 repository: https://github.com/imatheus-lucas/rippledb
